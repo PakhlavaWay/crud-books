@@ -1,0 +1,19 @@
+.loading {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 3px dashed gray;
+  animation: rotate 2.5s infinite linear;
+  margin: 20px auto;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg) scale(0.8);
+    border-color: white;
+  }
+  to {
+    transform: rotate(360deg) scale(1.2);
+    border-color: #1976d2;
+  }
+}

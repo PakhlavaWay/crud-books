@@ -1,0 +1,19 @@
+.book {
+  border: 1px solid #1972d2;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.id, .title, .author {
+  color: #1976d2;
+}
+
+.link {
+  text-decoration: none;
+  border: 1px solid #1972d2;
+  padding: 10px 20px; 
+  border-radius: 6px;
+}
+

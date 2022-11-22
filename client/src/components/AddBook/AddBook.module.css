@@ -1,0 +1,14 @@
+.book {
+  margin: 0 auto;
+  width: 36%;
+}
+
+.book__form {
+  display: flex;
+  justify-content: space-between;
+  width: 100%!important;
+  margin: 20px 0!important;
+}
+
+
+

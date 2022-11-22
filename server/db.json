@@ -1,19 +1,16 @@
 {
   "books": [
     {
-      "id": "d5fE_asz",
-      "title": "The New Turing Omnibus",
-      "author": "Alexander K. Dewdney"
-    },
-    {
       "id": "iEuOBYkU",
       "title": "The Little Book of Semaphores",
-      "author": "Allen B. Downey "
+      "author": "Allen B. Downey ",
+      "titleLocal": "The Little Book of Semaphores",
+      "authorLocal": "Allen B. Downey saasa"
     },
     {
       "id": "0kFaJHB2",
       "title": "Programming Pearls",
-      "author": "Jon Bentley"
+      "author": "Jon Bentleyyyy a b"
     },
     {
       "id": "OPhMogym",
@@ -23,7 +20,26 @@
     {
       "id": "ukjXyUuM",
       "title": "The Elements of Programming Style",
-      "author": "Brian W. Kernighan and Phillip J. Plauger"
+      "author": "Brian W. Kernighan and Phillip J. Plauger",
+      "titleLocal": "Programming Pearls",
+      "authorLocal": "Jon Bentley"
+    },
+    {
+      "id": "YKxz2z-l",
+      "title": "Book of The Jasper Gallogrers",
+      "author": "Jasper Gallogers"
+    },
+    {
+      "id": "iFt6SYvY",
+      "title": "The Hobbit unexpected journey",
+      "author": "Tolkien"
+    },
+    {
+      "id": "ZTkRopiz",
+      "title": "The Lord of The Rings",
+      "author": "JR.Tolkien",
+      "titleLocal": "s",
+      "authorLocal": "s"
     }
   ]
 }
